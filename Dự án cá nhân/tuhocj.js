@@ -1,0 +1,1 @@
+alert("XIN CHAOF TOI MOWIS HCOJ JS");
